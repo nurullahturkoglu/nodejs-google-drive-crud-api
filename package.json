@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-google-drive-crud-api",
+  "version": "1.0.0",
+  "description": "Google Drive Crud Api Using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "googleapis": "^140.0.1",
+    "nodemon": "^3.1.4",
+    "path": "^0.12.7"
+  }
+}
