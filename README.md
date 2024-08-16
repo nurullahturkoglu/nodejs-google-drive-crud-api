@@ -41,6 +41,12 @@ You should edit the folderId variable in the `services/googleDriveServices.js` f
 const folderId = "your-folder-id";
 ```
 
+## Helpful Resources
+
+https://www.youtube.com/watch?v=bkaQTLCBBeo
+
+https://medium.com/@alphatesfa789/node-js-google-drive-api-revolutionize-file-handling-with-ease-a94525eef39b
+
 ## Contributing
 
 1. Fork the repository.
